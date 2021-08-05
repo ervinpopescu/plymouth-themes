@@ -175,7 +175,6 @@ Red Loader|Splash
 + [Tech B](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Tech-B.gif)
 + [Unrap](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Unrap.gif)
 
-
 ### FYI
 + Created and tested on machine with 1366x768 resolution.
 + Yeah, that's how *quarantine* going on :grin:.
