@@ -4,7 +4,7 @@
 A big collection of plymouth themes, ported from <i>android bootanimation</i> from <a href="https:/forum.xda-developers.com/android/themes/alienware-t3721978">here.</a>
 </p>
 
-![gif](/ervinpopescu/plymouth-themes/main/previews/Lone.gif)
+![](./previews/Lone.gif)
 
 ### What is plymouth?
 
@@ -18,7 +18,7 @@ follow [this](https:/wiki.archlinux.org/index.php/plymouth) *archwiki* article t
 
 **Download :** you can download individual themes via link below -
 <p align="center">
-  <a href="https:/github.com/ervinpopescu/plymouth-themes/tree/main/all_themes"><img alt="undefined" src="https:/img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
+  <a href="./all_themes"><img alt="undefined" src="https:/img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 **Clone :** or you can clone this repository if you want - 
