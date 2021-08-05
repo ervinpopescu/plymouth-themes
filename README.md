@@ -18,7 +18,7 @@ follow [this](https:/wiki.archlinux.org/index.php/plymouth) *archwiki* article t
 
 **Download :** you can download individual themes via link below -
 <p align="center">
-  <a href="./all_themes"><img alt="undefined" src="https:/img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
+  <a href="./all_themes"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 **Clone :** or you can clone this repository if you want - 
@@ -71,27 +71,27 @@ sudo update-initramfs -u
 ``` 
 ### Previews
 
-Here is an [Album](https:/www.buymeacoffee.com/p/44845).
+Here is an [Album](https://www.buymeacoffee.com/p/44845).
 
 
 Colorful Loop|Connect
 --|--
-![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Colorful-Loop.gif)|![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Connect.gif)
+![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Colorful-Loop.gif)|![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Connect.gif)
 
 
 Deus Ex|Hexagon Dots
 --|--
-![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Deus-Ex.gif)|![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Hexagon-Dots.gif)
+![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Deus-Ex.gif)|![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Hexagon-Dots.gif)
 
 
 Lone|Pixels
 --|--
-![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Lone.gif)|![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Pixels.gif)
+![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Lone.gif)|![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Pixels.gif)
 
 
 Red Loader|Splash
 --|--
-![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Red-Loader.gif)|![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Splash.gif)
+![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Red-Loader.gif)|![gif](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Splash.gif)
 
 
 + [Abstract Rings](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Abstract-Rings.gif)
