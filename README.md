@@ -4,7 +4,7 @@
 A big collection of plymouth themes, ported from <i>android bootanimation</i> from <a href="https:/forum.xda-developers.com/android/themes/alienware-t3721978">here.</a>
 </p>
 
-![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews)
+![gif](https:/raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Lone.gif)
 
 ### What is plymouth?
 
