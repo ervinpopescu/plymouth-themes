@@ -14,7 +14,7 @@ A big collection of plymouth themes, ported from <i>android bootanimation</i> fr
 
 follow [this](https:/wiki.archlinux.org/index.php/plymouth) *archwiki* article to setup plymouth in *archlinux* or any other distro.
 
-### How to get these theme?
+### How to get these themes?
 
 **Download :** you can download individual themes via link below -
 <p align="center">
@@ -26,7 +26,7 @@ follow [this](https:/wiki.archlinux.org/index.php/plymouth) *archwiki* article t
 git clone https:/github.com/ervinpopescu/plymouth-themes.git
 ```
 
-**AUR :** If you're `archlinux`, you can install these [themes](https:/aur.archlinux.org/packages/?O=0&K=adi1090x) individually with an `AUR helper like yay`
+**AUR :** If you have `archlinux`, you can install these [themes](https:/aur.archlinux.org/packages/?O=0&K=adi1090x) individually with an `AUR helper like yay`
 ```bash
 yay -S plymouth-theme-NAME-git
 ```
