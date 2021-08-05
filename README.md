@@ -4,7 +4,7 @@
 A big collection of plymouth themes, ported from <i>android bootanimation</i> from <a href="https://forum.xda-developers.com/android/themes/alienware-t3721978">here.</a>
 </p>
 
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)
+![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)
 
 ### What is plymouth?
 
@@ -23,7 +23,7 @@ follow [this](https://wiki.archlinux.org/index.php/plymouth) *archwiki* article 
 
 **Clone :** or you can clone this repository if you want - 
 ```bash
-git clone https://github.com/adi1090x/plymouth-themes.git
+git clone https://github.com/ervinpopescu/plymouth-themes.git
 ```
 
 **AUR :** If you're `archlinux`, you can install these [themes](https://aur.archlinux.org/packages/?O=0&K=adi1090x) individually with an `AUR helper like yay`
@@ -33,7 +33,7 @@ yay -S plymouth-theme-NAME-git
 > Remember to replace the underscore(\_) with an hyphen(-) in theme's NAME.
 
 
-### How to use these theme?
+### How to use these themes?
 
 + follow the step below (I'm using **archlinux** here)- 
 ```bash
@@ -73,133 +73,108 @@ sudo update-initramfs -u
 
 Here is an [Album](https://www.buymeacoffee.com/p/44845).
 
-<!----------------------------- Pack 1 ----------------------------->
-<details><summary>Pack 1</summary>
 
 Colorful Loop|Connect
 --|--
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
+![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)|![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)
 
-> *Open in new tab with fullscreen mode for better view*
-
-+ [Abstract Rings](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/1.gif)
-+ [Abstract Rings Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/2.gif)
-+ [Alienware](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/3.gif)
-+ [Angular](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/4.gif)
-+ [Angular Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/5.gif)
-+ [Black HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/6.gif)
-+ [Blockchain](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/7.gif)
-+ [Circle](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/8.gif)
-+ [Circle Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/9.gif)
-+ [Circle Flow](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/10.gif)
-+ [Circle HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/11.gif)
-+ [Circuit](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/12.gif)
-+ [Colorful](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/13.gif)
-+ [Colorful Loop](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)
-+ [Colorful Sliced](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/15.gif)
-+ [Connect](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
-+ [Cross HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/17.gif)
-+ [Cubes](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/18.gif)
-+ [Cuts](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/19.gif)
-+ [Cuts Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/20.gif)
-
-</details>
-
-<!----------------------------- Pack 2 ----------------------------->
-<details><summary>Pack 2</summary>
 
 Deus Ex|Hexagon Dots
 --|--
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/25.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/37.gif)
+![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)|![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)
 
-> *Open in new tab with fullscreen mode for better view*
-
-+ [Cyanide](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/21.gif)
-+ [Cybernetic](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/22.gif)
-+ [Dark Planet](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/23.gif)
-+ [Darth Vader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/24.gif)
-+ [Deus Ex](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/25.gif)
-+ [DNA](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/26.gif)
-+ [Double](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/27.gif)
-+ [Dragon](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/28.gif)
-+ [Flame](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/29.gif)
-+ [Glitch](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/30.gif)
-+ [Glow](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/31.gif)
-+ [Green Blocks](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/32.gif)
-+ [Green Loader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/33.gif)
-+ [Hexagon](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/34.gif)
-+ [Hexagon 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/35.gif)
-+ [Hexagon Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/36.gif)
-+ [Hexagon Dots](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/37.gif)
-+ [Hexagon Dots Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/38.gif)
-+ [Hexagon HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/39.gif)
-+ [Hexagon RED](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/40.gif)
-
-</details>
-
-<!----------------------------- Pack 3 ----------------------------->
-<details><summary>Pack 3</summary>
 
 Lone|Pixels
 --|--
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/59.gif)
+![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)|![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)
 
-> *Open in new tab with fullscreen mode for better view*
-
-+ [Hexa Retro](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/41.gif)
-+ [Hud](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/42.gif)
-+ [Hud 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/43.gif)
-+ [Hud 3](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/44.gif)
-+ [Hud Space](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/45.gif)
-+ [IBM](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/46.gif)
-+ [Infinite Seal](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/47.gif)
-+ [Ironman](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/48.gif)
-+ [Liquid](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/49.gif)
-+ [Loader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/50.gif)
-+ [Loader 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/51.gif)
-+ [Loader Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/52.gif)
-+ [Lone](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)
-+ [Metal Ball](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/54.gif)
-+ [Motion](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/55.gif)
-+ [Optimus](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/56.gif)
-+ [Owl](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/57.gif)
-+ [Pie](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/58.gif)
-+ [Pixels](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/59.gif)
-+ [Polaroid](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/60.gif)
-
-</details>
-
-<!----------------------------- Pack 4 ----------------------------->
-<details><summary>Pack 4</summary>
 
 Red Loader|Splash
 --|--
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/61.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/73.gif)
+![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)|![gif](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews)
 
-> *Open in new tab with fullscreen mode for better view*
 
-+ [Red Loader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/61.gif)
-+ [Rings](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/62.gif)
-+ [Rings 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/63.gif)
-+ [Rog](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/64.gif)
-+ [Rog 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/65.gif)
-+ [Seal](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/66.gif)
-+ [Seal 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/67.gif)
-+ [Seal 3](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/68.gif)
-+ [Sliced](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/69.gif)
-+ [Sphere](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/70.gif)
-+ [Spin](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/71.gif)
-+ [Spinner Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/72.gif)
-+ [Splash](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/73.gif)
-+ [Square](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/74.gif)
-+ [Square Hud](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/75.gif)
-+ [Target](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/76.gif)
-+ [Target 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/77.gif)
-+ [Tech A](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/78.gif)
-+ [Tech B](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/79.gif)
-+ [Unrap](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/80.gif)
++ [Abstract Rings](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Abstract-Rings.gif)
++ [Abstract Rings Alt](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Abstract-Rings-Alt.gif)
++ [Alienware](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Alienware.gif)
++ [Angular](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Angular-Alt.gif)
++ [Angular Alt](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Angular.gif)
++ [Black HUD](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Black-HUD.gif)
++ [Blockchain](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Blockchain.gif)
++ [Circle](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Circle.gif)
++ [Circle Alt](https://raw.githubusercontent.com/ervinpopescu/plymouth-themes/main/previews/Circle-Alt.gif)
++ [Circle Flow](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Circle-Flow.gif)
++ [Circle HUD](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Circle-HUD.gif)
++ [Circuit](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Circuit.gif)
++ [Colorful](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Colorful.gif)
++ [Colorful Loop](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Colorful-Loop.gif)
++ [Colorful Sliced](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Colorful-Sliced.gif)
++ [Connect](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Connect.gif)
++ [Cross HUD](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Cross-HUD.gif)
++ [Cubes](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Cubes.gif)
++ [Cuts](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Cuts.gif)
++ [Cuts Alt](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Cuts-Alt.gif)
++ [Cyanide](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Cyanide.gif)
++ [Cybernetic](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Cybernetic.gif)
++ [Dark Planet](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Dark-Planet.gif)
++ [Darth Vader](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Darth-Vader.gif)
++ [Deus Ex](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Deus-Ex.gif)
++ [DNA](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/DNA.gif)
++ [Double](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Double.gif)
++ [Dragon](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Dragon.gif)
++ [Flame](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Flame.gif)
++ [Glitch](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Glitch.gif)
++ [Glow](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Glow.gif)
++ [Green Blocks](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Green-Blocks.gif)
++ [Green Loader](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Green-Loader.gif)
++ [Hexagon](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexagon.gif)
++ [Hexagon 2](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexagon-2.gif)
++ [Hexagon Alt](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexagon-Alt.gif)
++ [Hexagon Dots](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexagon-Dots.gif)
++ [Hexagon Dots Alt](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexagon-Dots-Alt.gif)
++ [Hexagon HUD](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexagon-HUD.gif)
++ [Hexagon RED](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexagon-RED.gif)
++ [Hexa Retro](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hexa-Retro.gif)
++ [Hud](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hud-2.gif)
++ [Hud 2](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hud-3.gif)
++ [Hud 3](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hud.gif)
++ [Hud Space](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Hud-Space.gif)
++ [IBM](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/IBM.gif)
++ [Infinite Seal](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Infinite-Seal.gif)
++ [Ironman](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Ironman.gif)
++ [Liquid](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Liquid.gif)
++ [Loader](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Loader-2.gif)
++ [Loader 2](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Loader-Alt.gif)
++ [Loader Alt](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Loader.gif)
++ [Lone](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Lone.gif)
++ [Metal Ball](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Metal-Ball.gif)
++ [Motion](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Motion.gif)
++ [Optimus](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Optimus.gif)
++ [Owl](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Owl.gif)
++ [Pie](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Pie.gif)
++ [Pixels](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Pixels.gif)
++ [Polaroid](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Polaroid.gif)
++ [Red Loader](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Red-Loader.gif)
++ [Rings](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Rings-2.gif)
++ [Rings 2](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Rings.gif)
++ [Rog](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Rog-2.gif)
++ [Rog 2](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Rog.gif)
++ [Seal](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Seal-2.gif)
++ [Seal 2](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Seal-3.gif)
++ [Seal 3](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Seal.gif)
++ [Sliced](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Sliced.gif)
++ [Sphere](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Sphere.gif)
++ [Spin](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Spin.gif)
++ [Spinner Alt](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Spinner-Alt.gif)
++ [Splash](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Splash.gif)
++ [Square](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Square.gif)
++ [Square Hud](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Square-Hud.gif)
++ [Target](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Target-2.gif)
++ [Target 2](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Target.gif)
++ [Tech A](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Tech-A.gif)
++ [Tech B](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Tech-B.gif)
++ [Unrap](https://raw.githubusercontent.com//ervinpopescu/plymouth-themes/main/previews/Unrap.gif)
 
-</details>
 
 ### FYI
 + Created and tested on machine with 1366x768 resolution.
