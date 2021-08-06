@@ -1,0 +1,19 @@
+#!/bin/bash
+
+your_themes=$(ls ./all_themes)
+
+installed_themes=$(ls /usr/share/plymouth/themes)
+
+for i in $your_themes
+	do
+		for j in $installed_themes
+			do
+				if [ "$i" = "default.plymouth" ] || [ "$i" = "text.plymouth" ] || [ "$i" = "debian-theme" ] || [ "$i" = "$j" ]
+				then
+					echo -e "\033[0;31mNot installing $i.Already installed!"	
+				else
+					echo -e "\033[0;32mInstalling $i"
+					update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/$i 100	
+			    fi
+			done
+	done
