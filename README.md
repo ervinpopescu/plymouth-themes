@@ -23,7 +23,7 @@ follow [this](https:/wiki.archlinux.org/index.php/plymouth) *archwiki* article t
 
 **Clone :** or you can clone this repository if you want - 
 ```bash
-git clone https:/github.com/ervinpopescu/plymouth-themes.git
+git clone https://github.com/ervinpopescu/plymouth-themes.git
 ```
 
 **AUR :** If you have `archlinux`, you can install these [themes](https:/aur.archlinux.org/packages/?O=0&K=adi1090x) individually with an `AUR helper like yay`
