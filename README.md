@@ -65,12 +65,8 @@ sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth d
 # select the theme to apply
 sudo update-alternatives --config default.plymouth
 #(select the number to install your_theme)
-```
 
-update initramfs
-
-
-```
+# update initramfs
 sudo update-initramfs -u
 ``` 
 
